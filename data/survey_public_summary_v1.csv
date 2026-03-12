@@ -1,0 +1,506 @@
+geography_level,city,neighbourhood,variable,category,n,pct
+overall,All,All,belong_here,Yes,1322,80.41
+overall,All,All,belong_here,No,309,18.8
+overall,All,All,belong_here,Missing,13,0.79
+overall,All,All,perceived_outsider,No,1250,76.03
+overall,All,All,perceived_outsider,Yes,361,21.96
+overall,All,All,perceived_outsider,Don't know,20,1.22
+overall,All,All,perceived_outsider,Missing,13,0.79
+overall,All,All,trust_police,Yes,656,39.9
+overall,All,All,trust_police,No,617,37.53
+overall,All,All,trust_police,Mixed,318,19.34
+overall,All,All,trust_police,Don't know,40,2.43
+overall,All,All,trust_police,Missing,13,0.79
+overall,All,All,trust_councillor,No,668,40.63
+overall,All,All,trust_councillor,Yes,544,33.09
+overall,All,All,trust_councillor,Mixed,248,15.09
+overall,All,All,trust_councillor,Don't know,171,10.4
+overall,All,All,trust_councillor,Missing,13,0.79
+overall,All,All,trust_neighbours,Yes,885,53.83
+overall,All,All,trust_neighbours,Mixed,450,27.37
+overall,All,All,trust_neighbours,No,277,16.85
+overall,All,All,trust_neighbours,Don't know,19,1.16
+overall,All,All,trust_neighbours,Missing,13,0.79
+overall,All,All,stay_or_go,Stay in neighbourhood,995,60.52
+overall,All,All,stay_or_go,Move within country,343,20.86
+overall,All,All,stay_or_go,Leave country,275,16.73
+overall,All,All,stay_or_go,Missing,31,1.89
+overall,All,All,medium_term_goal,Stay here,1197,72.81
+overall,All,All,medium_term_goal,Move within city,139,8.45
+overall,All,All,medium_term_goal,Don't know,119,7.24
+overall,All,All,medium_term_goal,Return to origin community,55,3.35
+overall,All,All,medium_term_goal,Move to third country,54,3.28
+overall,All,All,medium_term_goal,Move within home country,43,2.62
+overall,All,All,medium_term_goal,Missing,31,1.89
+overall,All,All,medium_term_goal,Other,6,0.36
+overall,All,All,long_term_goal,Stay here,638,38.81
+overall,All,All,long_term_goal,Move within city,248,15.09
+overall,All,All,long_term_goal,Move to third country,206,12.53
+overall,All,All,long_term_goal,Don't know,188,11.44
+overall,All,All,long_term_goal,Return to origin community,187,11.37
+overall,All,All,long_term_goal,Move within home country,121,7.36
+overall,All,All,long_term_goal,Missing,31,1.89
+overall,All,All,long_term_goal,Other,25,1.52
+city,Nairobi,All,belong_here,Yes,473,86.31
+city,Nairobi,All,belong_here,No,65,11.86
+city,Nairobi,All,belong_here,Missing,10,1.82
+city,Accra,All,belong_here,Yes,436,75.04
+city,Accra,All,belong_here,No,143,24.61
+city,Accra,All,belong_here,Missing,2,0.34
+city,Johannesburg,All,belong_here,Yes,413,80.19
+city,Johannesburg,All,belong_here,No,101,19.61
+city,Johannesburg,All,belong_here,Missing,1,0.19
+city,Nairobi,All,perceived_outsider,No,442,80.66
+city,Nairobi,All,perceived_outsider,Yes,89,16.24
+city,Nairobi,All,perceived_outsider,Missing,10,1.82
+city,Nairobi,All,perceived_outsider,Don't know,7,1.28
+city,Accra,All,perceived_outsider,No,395,67.99
+city,Accra,All,perceived_outsider,Yes,175,30.12
+city,Accra,All,perceived_outsider,Don't know,9,1.55
+city,Accra,All,perceived_outsider,Missing,2,0.34
+city,Johannesburg,All,perceived_outsider,No,413,80.19
+city,Johannesburg,All,perceived_outsider,Yes,97,18.83
+city,Johannesburg,All,perceived_outsider,Don't know,4,0.78
+city,Johannesburg,All,perceived_outsider,Missing,1,0.19
+city,Nairobi,All,trust_police,Yes,259,47.26
+city,Nairobi,All,trust_police,No,193,35.22
+city,Nairobi,All,trust_police,Mixed,76,13.87
+city,Nairobi,All,trust_police,Missing,10,1.82
+city,Nairobi,All,trust_police,Don't know,10,1.82
+city,Accra,All,trust_police,No,222,38.21
+city,Accra,All,trust_police,Yes,181,31.15
+city,Accra,All,trust_police,Mixed,155,26.68
+city,Accra,All,trust_police,Don't know,21,3.61
+city,Accra,All,trust_police,Missing,2,0.34
+city,Johannesburg,All,trust_police,Yes,216,41.94
+city,Johannesburg,All,trust_police,No,202,39.22
+city,Johannesburg,All,trust_police,Mixed,87,16.89
+city,Johannesburg,All,trust_police,Don't know,9,1.75
+city,Johannesburg,All,trust_police,Missing,1,0.19
+city,Nairobi,All,trust_councillor,Yes,239,43.61
+city,Nairobi,All,trust_councillor,No,208,37.96
+city,Nairobi,All,trust_councillor,Mixed,61,11.13
+city,Nairobi,All,trust_councillor,Don't know,30,5.47
+city,Nairobi,All,trust_councillor,Missing,10,1.82
+city,Accra,All,trust_councillor,No,231,39.76
+city,Accra,All,trust_councillor,Yes,158,27.19
+city,Accra,All,trust_councillor,Mixed,125,21.51
+city,Accra,All,trust_councillor,Don't know,65,11.19
+city,Accra,All,trust_councillor,Missing,2,0.34
+city,Johannesburg,All,trust_councillor,No,229,44.47
+city,Johannesburg,All,trust_councillor,Yes,147,28.54
+city,Johannesburg,All,trust_councillor,Don't know,76,14.76
+city,Johannesburg,All,trust_councillor,Mixed,62,12.04
+city,Johannesburg,All,trust_councillor,Missing,1,0.19
+city,Nairobi,All,trust_neighbours,Yes,369,67.34
+city,Nairobi,All,trust_neighbours,Mixed,112,20.44
+city,Nairobi,All,trust_neighbours,No,50,9.12
+city,Nairobi,All,trust_neighbours,Missing,10,1.82
+city,Nairobi,All,trust_neighbours,Don't know,7,1.28
+city,Accra,All,trust_neighbours,Mixed,229,39.41
+city,Accra,All,trust_neighbours,Yes,224,38.55
+city,Accra,All,trust_neighbours,No,121,20.83
+city,Accra,All,trust_neighbours,Don't know,5,0.86
+city,Accra,All,trust_neighbours,Missing,2,0.34
+city,Johannesburg,All,trust_neighbours,Yes,292,56.7
+city,Johannesburg,All,trust_neighbours,Mixed,109,21.17
+city,Johannesburg,All,trust_neighbours,No,106,20.58
+city,Johannesburg,All,trust_neighbours,Don't know,7,1.36
+city,Johannesburg,All,trust_neighbours,Missing,1,0.19
+city,Nairobi,All,stay_or_go,Stay in neighbourhood,365,66.61
+city,Nairobi,All,stay_or_go,Move within country,89,16.24
+city,Nairobi,All,stay_or_go,Leave country,72,13.14
+city,Nairobi,All,stay_or_go,Missing,22,4.01
+city,Accra,All,stay_or_go,Stay in neighbourhood,276,47.5
+city,Accra,All,stay_or_go,Move within country,151,25.99
+city,Accra,All,stay_or_go,Leave country,150,25.82
+city,Accra,All,stay_or_go,Missing,4,0.69
+city,Johannesburg,All,stay_or_go,Stay in neighbourhood,354,68.74
+city,Johannesburg,All,stay_or_go,Move within country,103,20.0
+city,Johannesburg,All,stay_or_go,Leave country,53,10.29
+city,Johannesburg,All,stay_or_go,Missing,5,0.97
+city,Nairobi,All,medium_term_goal,Stay here,410,74.82
+city,Nairobi,All,medium_term_goal,Don't know,51,9.31
+city,Nairobi,All,medium_term_goal,Move within city,23,4.2
+city,Nairobi,All,medium_term_goal,Missing,22,4.01
+city,Nairobi,All,medium_term_goal,Return to origin community,19,3.47
+city,Nairobi,All,medium_term_goal,Move within home country,13,2.37
+city,Nairobi,All,medium_term_goal,Move to third country,9,1.64
+city,Nairobi,All,medium_term_goal,Other,1,0.18
+city,Accra,All,medium_term_goal,Stay here,379,65.23
+city,Accra,All,medium_term_goal,Move within city,66,11.36
+city,Accra,All,medium_term_goal,Don't know,43,7.4
+city,Accra,All,medium_term_goal,Move to third country,43,7.4
+city,Accra,All,medium_term_goal,Move within home country,25,4.3
+city,Accra,All,medium_term_goal,Return to origin community,19,3.27
+city,Accra,All,medium_term_goal,Missing,4,0.69
+city,Accra,All,medium_term_goal,Other,2,0.34
+city,Johannesburg,All,medium_term_goal,Stay here,408,79.22
+city,Johannesburg,All,medium_term_goal,Move within city,50,9.71
+city,Johannesburg,All,medium_term_goal,Don't know,25,4.85
+city,Johannesburg,All,medium_term_goal,Return to origin community,17,3.3
+city,Johannesburg,All,medium_term_goal,Missing,5,0.97
+city,Johannesburg,All,medium_term_goal,Move within home country,5,0.97
+city,Johannesburg,All,medium_term_goal,Other,3,0.58
+city,Johannesburg,All,medium_term_goal,Move to third country,2,0.39
+city,Nairobi,All,long_term_goal,Stay here,206,37.59
+city,Nairobi,All,long_term_goal,Return to origin community,85,15.51
+city,Nairobi,All,long_term_goal,Don't know,67,12.23
+city,Nairobi,All,long_term_goal,Move within home country,55,10.04
+city,Nairobi,All,long_term_goal,Move within city,52,9.49
+city,Nairobi,All,long_term_goal,Move to third country,48,8.76
+city,Nairobi,All,long_term_goal,Missing,22,4.01
+city,Nairobi,All,long_term_goal,Other,13,2.37
+city,Accra,All,long_term_goal,Stay here,182,31.33
+city,Accra,All,long_term_goal,Move to third country,142,24.44
+city,Accra,All,long_term_goal,Move within city,108,18.59
+city,Accra,All,long_term_goal,Don't know,74,12.74
+city,Accra,All,long_term_goal,Move within home country,36,6.2
+city,Accra,All,long_term_goal,Return to origin community,33,5.68
+city,Accra,All,long_term_goal,Missing,4,0.69
+city,Accra,All,long_term_goal,Other,2,0.34
+city,Johannesburg,All,long_term_goal,Stay here,250,48.54
+city,Johannesburg,All,long_term_goal,Move within city,88,17.09
+city,Johannesburg,All,long_term_goal,Return to origin community,69,13.4
+city,Johannesburg,All,long_term_goal,Don't know,47,9.13
+city,Johannesburg,All,long_term_goal,Move within home country,30,5.83
+city,Johannesburg,All,long_term_goal,Move to third country,16,3.11
+city,Johannesburg,All,long_term_goal,Other,10,1.94
+city,Johannesburg,All,long_term_goal,Missing,5,0.97
+neighbourhood,Nairobi,Kawangware,belong_here,Yes,169,81.64
+neighbourhood,Nairobi,Kawangware,belong_here,No,29,14.01
+neighbourhood,Nairobi,Kawangware,belong_here,Missing,9,4.35
+neighbourhood,Nairobi,Kayole,belong_here,Yes,150,87.21
+neighbourhood,Nairobi,Kayole,belong_here,No,21,12.21
+neighbourhood,Nairobi,Kayole,belong_here,Missing,1,0.58
+neighbourhood,Nairobi,Ongata Rongai,belong_here,Yes,153,91.07
+neighbourhood,Nairobi,Ongata Rongai,belong_here,No,15,8.93
+neighbourhood,Accra,Madina,belong_here,Yes,187,84.23
+neighbourhood,Accra,Madina,belong_here,No,34,15.32
+neighbourhood,Accra,Madina,belong_here,Missing,1,0.45
+neighbourhood,Accra,Old Fadama,belong_here,Yes,132,70.21
+neighbourhood,Accra,Old Fadama,belong_here,No,55,29.26
+neighbourhood,Accra,Old Fadama,belong_here,Missing,1,0.53
+neighbourhood,Accra,James Town,belong_here,Yes,117,68.42
+neighbourhood,Accra,James Town,belong_here,No,54,31.58
+neighbourhood,Johannesburg,Berea,belong_here,Yes,144,78.69
+neighbourhood,Johannesburg,Berea,belong_here,No,38,20.77
+neighbourhood,Johannesburg,Berea,belong_here,Missing,1,0.55
+neighbourhood,Johannesburg,Katlehong,belong_here,Yes,139,82.74
+neighbourhood,Johannesburg,Katlehong,belong_here,No,29,17.26
+neighbourhood,Johannesburg,Diepsloot,belong_here,Yes,130,79.27
+neighbourhood,Johannesburg,Diepsloot,belong_here,No,34,20.73
+neighbourhood,Nairobi,Kawangware,perceived_outsider,No,162,78.26
+neighbourhood,Nairobi,Kawangware,perceived_outsider,Yes,32,15.46
+neighbourhood,Nairobi,Kawangware,perceived_outsider,Missing,9,4.35
+neighbourhood,Nairobi,Kawangware,perceived_outsider,Don't know,4,1.93
+neighbourhood,Nairobi,Kayole,perceived_outsider,No,138,80.23
+neighbourhood,Nairobi,Kayole,perceived_outsider,Yes,32,18.6
+neighbourhood,Nairobi,Kayole,perceived_outsider,Missing,1,0.58
+neighbourhood,Nairobi,Kayole,perceived_outsider,Don't know,1,0.58
+neighbourhood,Nairobi,Ongata Rongai,perceived_outsider,No,141,83.93
+neighbourhood,Nairobi,Ongata Rongai,perceived_outsider,Yes,25,14.88
+neighbourhood,Nairobi,Ongata Rongai,perceived_outsider,Don't know,2,1.19
+neighbourhood,Accra,Madina,perceived_outsider,No,172,77.48
+neighbourhood,Accra,Madina,perceived_outsider,Yes,47,21.17
+neighbourhood,Accra,Madina,perceived_outsider,Don't know,2,0.9
+neighbourhood,Accra,Madina,perceived_outsider,Missing,1,0.45
+neighbourhood,Accra,Old Fadama,perceived_outsider,No,120,63.83
+neighbourhood,Accra,Old Fadama,perceived_outsider,Yes,63,33.51
+neighbourhood,Accra,Old Fadama,perceived_outsider,Don't know,4,2.13
+neighbourhood,Accra,Old Fadama,perceived_outsider,Missing,1,0.53
+neighbourhood,Accra,James Town,perceived_outsider,No,103,60.23
+neighbourhood,Accra,James Town,perceived_outsider,Yes,65,38.01
+neighbourhood,Accra,James Town,perceived_outsider,Don't know,3,1.75
+neighbourhood,Johannesburg,Berea,perceived_outsider,No,145,79.23
+neighbourhood,Johannesburg,Berea,perceived_outsider,Yes,34,18.58
+neighbourhood,Johannesburg,Berea,perceived_outsider,Don't know,3,1.64
+neighbourhood,Johannesburg,Berea,perceived_outsider,Missing,1,0.55
+neighbourhood,Johannesburg,Katlehong,perceived_outsider,No,127,75.6
+neighbourhood,Johannesburg,Katlehong,perceived_outsider,Yes,40,23.81
+neighbourhood,Johannesburg,Katlehong,perceived_outsider,Don't know,1,0.6
+neighbourhood,Johannesburg,Diepsloot,perceived_outsider,No,141,85.98
+neighbourhood,Johannesburg,Diepsloot,perceived_outsider,Yes,23,14.02
+neighbourhood,Nairobi,Kawangware,trust_police,No,84,40.58
+neighbourhood,Nairobi,Kawangware,trust_police,Yes,80,38.65
+neighbourhood,Nairobi,Kawangware,trust_police,Mixed,30,14.49
+neighbourhood,Nairobi,Kawangware,trust_police,Missing,9,4.35
+neighbourhood,Nairobi,Kawangware,trust_police,Don't know,4,1.93
+neighbourhood,Nairobi,Kayole,trust_police,Yes,83,48.26
+neighbourhood,Nairobi,Kayole,trust_police,No,65,37.79
+neighbourhood,Nairobi,Kayole,trust_police,Mixed,21,12.21
+neighbourhood,Nairobi,Kayole,trust_police,Don't know,2,1.16
+neighbourhood,Nairobi,Kayole,trust_police,Missing,1,0.58
+neighbourhood,Nairobi,Ongata Rongai,trust_police,Yes,95,56.55
+neighbourhood,Nairobi,Ongata Rongai,trust_police,No,44,26.19
+neighbourhood,Nairobi,Ongata Rongai,trust_police,Mixed,25,14.88
+neighbourhood,Nairobi,Ongata Rongai,trust_police,Don't know,4,2.38
+neighbourhood,Accra,Madina,trust_police,No,94,42.34
+neighbourhood,Accra,Madina,trust_police,Yes,73,32.88
+neighbourhood,Accra,Madina,trust_police,Mixed,40,18.02
+neighbourhood,Accra,Madina,trust_police,Don't know,14,6.31
+neighbourhood,Accra,Madina,trust_police,Missing,1,0.45
+neighbourhood,Accra,Old Fadama,trust_police,No,84,44.68
+neighbourhood,Accra,Old Fadama,trust_police,Mixed,51,27.13
+neighbourhood,Accra,Old Fadama,trust_police,Yes,46,24.47
+neighbourhood,Accra,Old Fadama,trust_police,Don't know,6,3.19
+neighbourhood,Accra,Old Fadama,trust_police,Missing,1,0.53
+neighbourhood,Accra,James Town,trust_police,Mixed,64,37.43
+neighbourhood,Accra,James Town,trust_police,Yes,62,36.26
+neighbourhood,Accra,James Town,trust_police,No,44,25.73
+neighbourhood,Accra,James Town,trust_police,Don't know,1,0.58
+neighbourhood,Johannesburg,Berea,trust_police,Yes,79,43.17
+neighbourhood,Johannesburg,Berea,trust_police,No,61,33.33
+neighbourhood,Johannesburg,Berea,trust_police,Mixed,40,21.86
+neighbourhood,Johannesburg,Berea,trust_police,Don't know,2,1.09
+neighbourhood,Johannesburg,Berea,trust_police,Missing,1,0.55
+neighbourhood,Johannesburg,Katlehong,trust_police,Yes,72,42.86
+neighbourhood,Johannesburg,Katlehong,trust_police,No,70,41.67
+neighbourhood,Johannesburg,Katlehong,trust_police,Mixed,21,12.5
+neighbourhood,Johannesburg,Katlehong,trust_police,Don't know,5,2.98
+neighbourhood,Johannesburg,Diepsloot,trust_police,No,71,43.29
+neighbourhood,Johannesburg,Diepsloot,trust_police,Yes,65,39.63
+neighbourhood,Johannesburg,Diepsloot,trust_police,Mixed,26,15.85
+neighbourhood,Johannesburg,Diepsloot,trust_police,Don't know,2,1.22
+neighbourhood,Nairobi,Kawangware,trust_councillor,No,101,48.79
+neighbourhood,Nairobi,Kawangware,trust_councillor,Yes,72,34.78
+neighbourhood,Nairobi,Kawangware,trust_councillor,Mixed,15,7.25
+neighbourhood,Nairobi,Kawangware,trust_councillor,Don't know,10,4.83
+neighbourhood,Nairobi,Kawangware,trust_councillor,Missing,9,4.35
+neighbourhood,Nairobi,Kayole,trust_councillor,Yes,79,45.93
+neighbourhood,Nairobi,Kayole,trust_councillor,No,63,36.63
+neighbourhood,Nairobi,Kayole,trust_councillor,Mixed,20,11.63
+neighbourhood,Nairobi,Kayole,trust_councillor,Don't know,9,5.23
+neighbourhood,Nairobi,Kayole,trust_councillor,Missing,1,0.58
+neighbourhood,Nairobi,Ongata Rongai,trust_councillor,Yes,87,51.79
+neighbourhood,Nairobi,Ongata Rongai,trust_councillor,No,44,26.19
+neighbourhood,Nairobi,Ongata Rongai,trust_councillor,Mixed,26,15.48
+neighbourhood,Nairobi,Ongata Rongai,trust_councillor,Don't know,11,6.55
+neighbourhood,Accra,Madina,trust_councillor,No,111,50.0
+neighbourhood,Accra,Madina,trust_councillor,Yes,68,30.63
+neighbourhood,Accra,Madina,trust_councillor,Don't know,23,10.36
+neighbourhood,Accra,Madina,trust_councillor,Mixed,19,8.56
+neighbourhood,Accra,Madina,trust_councillor,Missing,1,0.45
+neighbourhood,Accra,Old Fadama,trust_councillor,No,77,40.96
+neighbourhood,Accra,Old Fadama,trust_councillor,Mixed,46,24.47
+neighbourhood,Accra,Old Fadama,trust_councillor,Yes,40,21.28
+neighbourhood,Accra,Old Fadama,trust_councillor,Don't know,24,12.77
+neighbourhood,Accra,Old Fadama,trust_councillor,Missing,1,0.53
+neighbourhood,Accra,James Town,trust_councillor,Mixed,60,35.09
+neighbourhood,Accra,James Town,trust_councillor,Yes,50,29.24
+neighbourhood,Accra,James Town,trust_councillor,No,43,25.15
+neighbourhood,Accra,James Town,trust_councillor,Don't know,18,10.53
+neighbourhood,Johannesburg,Berea,trust_councillor,No,66,36.07
+neighbourhood,Johannesburg,Berea,trust_councillor,Yes,49,26.78
+neighbourhood,Johannesburg,Berea,trust_councillor,Don't know,43,23.5
+neighbourhood,Johannesburg,Berea,trust_councillor,Mixed,24,13.11
+neighbourhood,Johannesburg,Berea,trust_councillor,Missing,1,0.55
+neighbourhood,Johannesburg,Katlehong,trust_councillor,No,81,48.21
+neighbourhood,Johannesburg,Katlehong,trust_councillor,Yes,57,33.93
+neighbourhood,Johannesburg,Katlehong,trust_councillor,Mixed,15,8.93
+neighbourhood,Johannesburg,Katlehong,trust_councillor,Don't know,15,8.93
+neighbourhood,Johannesburg,Diepsloot,trust_councillor,No,82,50.0
+neighbourhood,Johannesburg,Diepsloot,trust_councillor,Yes,41,25.0
+neighbourhood,Johannesburg,Diepsloot,trust_councillor,Mixed,23,14.02
+neighbourhood,Johannesburg,Diepsloot,trust_councillor,Don't know,18,10.98
+neighbourhood,Nairobi,Kawangware,trust_neighbours,Yes,130,62.8
+neighbourhood,Nairobi,Kawangware,trust_neighbours,Mixed,36,17.39
+neighbourhood,Nairobi,Kawangware,trust_neighbours,No,30,14.49
+neighbourhood,Nairobi,Kawangware,trust_neighbours,Missing,9,4.35
+neighbourhood,Nairobi,Kawangware,trust_neighbours,Don't know,2,0.97
+neighbourhood,Nairobi,Kayole,trust_neighbours,Yes,118,68.6
+neighbourhood,Nairobi,Kayole,trust_neighbours,Mixed,40,23.26
+neighbourhood,Nairobi,Kayole,trust_neighbours,No,12,6.98
+neighbourhood,Nairobi,Kayole,trust_neighbours,Missing,1,0.58
+neighbourhood,Nairobi,Kayole,trust_neighbours,Don't know,1,0.58
+neighbourhood,Nairobi,Ongata Rongai,trust_neighbours,Yes,120,71.43
+neighbourhood,Nairobi,Ongata Rongai,trust_neighbours,Mixed,36,21.43
+neighbourhood,Nairobi,Ongata Rongai,trust_neighbours,No,8,4.76
+neighbourhood,Nairobi,Ongata Rongai,trust_neighbours,Don't know,4,2.38
+neighbourhood,Accra,Madina,trust_neighbours,Yes,101,45.5
+neighbourhood,Accra,Madina,trust_neighbours,Mixed,69,31.08
+neighbourhood,Accra,Madina,trust_neighbours,No,50,22.52
+neighbourhood,Accra,Madina,trust_neighbours,Missing,1,0.45
+neighbourhood,Accra,Madina,trust_neighbours,Don't know,1,0.45
+neighbourhood,Accra,Old Fadama,trust_neighbours,Mixed,90,47.87
+neighbourhood,Accra,Old Fadama,trust_neighbours,Yes,53,28.19
+neighbourhood,Accra,Old Fadama,trust_neighbours,No,44,23.4
+neighbourhood,Accra,Old Fadama,trust_neighbours,Missing,1,0.53
+neighbourhood,Accra,James Town,trust_neighbours,Yes,70,40.94
+neighbourhood,Accra,James Town,trust_neighbours,Mixed,70,40.94
+neighbourhood,Accra,James Town,trust_neighbours,No,27,15.79
+neighbourhood,Accra,James Town,trust_neighbours,Don't know,4,2.34
+neighbourhood,Johannesburg,Berea,trust_neighbours,Yes,103,56.28
+neighbourhood,Johannesburg,Berea,trust_neighbours,Mixed,40,21.86
+neighbourhood,Johannesburg,Berea,trust_neighbours,No,36,19.67
+neighbourhood,Johannesburg,Berea,trust_neighbours,Don't know,3,1.64
+neighbourhood,Johannesburg,Berea,trust_neighbours,Missing,1,0.55
+neighbourhood,Johannesburg,Katlehong,trust_neighbours,Yes,92,54.76
+neighbourhood,Johannesburg,Katlehong,trust_neighbours,No,43,25.6
+neighbourhood,Johannesburg,Katlehong,trust_neighbours,Mixed,30,17.86
+neighbourhood,Johannesburg,Katlehong,trust_neighbours,Don't know,3,1.79
+neighbourhood,Johannesburg,Diepsloot,trust_neighbours,Yes,97,59.15
+neighbourhood,Johannesburg,Diepsloot,trust_neighbours,Mixed,39,23.78
+neighbourhood,Johannesburg,Diepsloot,trust_neighbours,No,27,16.46
+neighbourhood,Johannesburg,Diepsloot,trust_neighbours,Don't know,1,0.61
+neighbourhood,Nairobi,Kawangware,stay_or_go,Stay in neighbourhood,108,52.17
+neighbourhood,Nairobi,Kawangware,stay_or_go,Move within country,54,26.09
+neighbourhood,Nairobi,Kawangware,stay_or_go,Leave country,26,12.56
+neighbourhood,Nairobi,Kawangware,stay_or_go,Missing,19,9.18
+neighbourhood,Nairobi,Kayole,stay_or_go,Stay in neighbourhood,130,75.58
+neighbourhood,Nairobi,Kayole,stay_or_go,Leave country,20,11.63
+neighbourhood,Nairobi,Kayole,stay_or_go,Move within country,19,11.05
+neighbourhood,Nairobi,Kayole,stay_or_go,Missing,3,1.74
+neighbourhood,Nairobi,Ongata Rongai,stay_or_go,Stay in neighbourhood,126,75.0
+neighbourhood,Nairobi,Ongata Rongai,stay_or_go,Leave country,26,15.48
+neighbourhood,Nairobi,Ongata Rongai,stay_or_go,Move within country,16,9.52
+neighbourhood,Accra,Madina,stay_or_go,Stay in neighbourhood,112,50.45
+neighbourhood,Accra,Madina,stay_or_go,Leave country,58,26.13
+neighbourhood,Accra,Madina,stay_or_go,Move within country,49,22.07
+neighbourhood,Accra,Madina,stay_or_go,Missing,3,1.35
+neighbourhood,Accra,Old Fadama,stay_or_go,Stay in neighbourhood,91,48.4
+neighbourhood,Accra,Old Fadama,stay_or_go,Move within country,60,31.91
+neighbourhood,Accra,Old Fadama,stay_or_go,Leave country,36,19.15
+neighbourhood,Accra,Old Fadama,stay_or_go,Missing,1,0.53
+neighbourhood,Accra,James Town,stay_or_go,Stay in neighbourhood,73,42.69
+neighbourhood,Accra,James Town,stay_or_go,Leave country,56,32.75
+neighbourhood,Accra,James Town,stay_or_go,Move within country,42,24.56
+neighbourhood,Johannesburg,Berea,stay_or_go,Stay in neighbourhood,124,67.76
+neighbourhood,Johannesburg,Berea,stay_or_go,Move within country,41,22.4
+neighbourhood,Johannesburg,Berea,stay_or_go,Leave country,14,7.65
+neighbourhood,Johannesburg,Berea,stay_or_go,Missing,4,2.19
+neighbourhood,Johannesburg,Katlehong,stay_or_go,Stay in neighbourhood,114,67.86
+neighbourhood,Johannesburg,Katlehong,stay_or_go,Move within country,33,19.64
+neighbourhood,Johannesburg,Katlehong,stay_or_go,Leave country,20,11.9
+neighbourhood,Johannesburg,Katlehong,stay_or_go,Missing,1,0.6
+neighbourhood,Johannesburg,Diepsloot,stay_or_go,Stay in neighbourhood,116,70.73
+neighbourhood,Johannesburg,Diepsloot,stay_or_go,Move within country,29,17.68
+neighbourhood,Johannesburg,Diepsloot,stay_or_go,Leave country,19,11.59
+neighbourhood,Nairobi,Kawangware,medium_term_goal,Stay here,130,62.8
+neighbourhood,Nairobi,Kawangware,medium_term_goal,Don't know,24,11.59
+neighbourhood,Nairobi,Kawangware,medium_term_goal,Missing,19,9.18
+neighbourhood,Nairobi,Kawangware,medium_term_goal,Move within city,16,7.73
+neighbourhood,Nairobi,Kawangware,medium_term_goal,Return to origin community,12,5.8
+neighbourhood,Nairobi,Kawangware,medium_term_goal,Move within home country,6,2.9
+neighbourhood,Nairobi,Kayole,medium_term_goal,Stay here,145,84.3
+neighbourhood,Nairobi,Kayole,medium_term_goal,Don't know,16,9.3
+neighbourhood,Nairobi,Kayole,medium_term_goal,Missing,3,1.74
+neighbourhood,Nairobi,Kayole,medium_term_goal,Return to origin community,3,1.74
+neighbourhood,Nairobi,Kayole,medium_term_goal,Move to third country,2,1.16
+neighbourhood,Nairobi,Kayole,medium_term_goal,Move within city,2,1.16
+neighbourhood,Nairobi,Kayole,medium_term_goal,Move within home country,1,0.58
+neighbourhood,Nairobi,Ongata Rongai,medium_term_goal,Stay here,134,79.76
+neighbourhood,Nairobi,Ongata Rongai,medium_term_goal,Don't know,11,6.55
+neighbourhood,Nairobi,Ongata Rongai,medium_term_goal,Move to third country,7,4.17
+neighbourhood,Nairobi,Ongata Rongai,medium_term_goal,Move within home country,6,3.57
+neighbourhood,Nairobi,Ongata Rongai,medium_term_goal,Move within city,5,2.98
+neighbourhood,Nairobi,Ongata Rongai,medium_term_goal,Return to origin community,4,2.38
+neighbourhood,Nairobi,Ongata Rongai,medium_term_goal,Other,1,0.6
+neighbourhood,Accra,Madina,medium_term_goal,Stay here,126,56.76
+neighbourhood,Accra,Madina,medium_term_goal,Move within city,28,12.61
+neighbourhood,Accra,Madina,medium_term_goal,Don't know,23,10.36
+neighbourhood,Accra,Madina,medium_term_goal,Move to third country,20,9.01
+neighbourhood,Accra,Madina,medium_term_goal,Move within home country,11,4.95
+neighbourhood,Accra,Madina,medium_term_goal,Return to origin community,9,4.05
+neighbourhood,Accra,Madina,medium_term_goal,Missing,3,1.35
+neighbourhood,Accra,Madina,medium_term_goal,Other,2,0.9
+neighbourhood,Accra,Old Fadama,medium_term_goal,Stay here,143,76.06
+neighbourhood,Accra,Old Fadama,medium_term_goal,Move within city,20,10.64
+neighbourhood,Accra,Old Fadama,medium_term_goal,Don't know,12,6.38
+neighbourhood,Accra,Old Fadama,medium_term_goal,Return to origin community,6,3.19
+neighbourhood,Accra,Old Fadama,medium_term_goal,Move to third country,4,2.13
+neighbourhood,Accra,Old Fadama,medium_term_goal,Move within home country,2,1.06
+neighbourhood,Accra,Old Fadama,medium_term_goal,Missing,1,0.53
+neighbourhood,Accra,James Town,medium_term_goal,Stay here,110,64.33
+neighbourhood,Accra,James Town,medium_term_goal,Move to third country,19,11.11
+neighbourhood,Accra,James Town,medium_term_goal,Move within city,18,10.53
+neighbourhood,Accra,James Town,medium_term_goal,Move within home country,12,7.02
+neighbourhood,Accra,James Town,medium_term_goal,Don't know,8,4.68
+neighbourhood,Accra,James Town,medium_term_goal,Return to origin community,4,2.34
+neighbourhood,Johannesburg,Berea,medium_term_goal,Stay here,144,78.69
+neighbourhood,Johannesburg,Berea,medium_term_goal,Move within city,21,11.48
+neighbourhood,Johannesburg,Berea,medium_term_goal,Return to origin community,10,5.46
+neighbourhood,Johannesburg,Berea,medium_term_goal,Missing,4,2.19
+neighbourhood,Johannesburg,Berea,medium_term_goal,Other,2,1.09
+neighbourhood,Johannesburg,Berea,medium_term_goal,Move to third country,1,0.55
+neighbourhood,Johannesburg,Berea,medium_term_goal,Don't know,1,0.55
+neighbourhood,Johannesburg,Katlehong,medium_term_goal,Stay here,136,80.95
+neighbourhood,Johannesburg,Katlehong,medium_term_goal,Move within city,13,7.74
+neighbourhood,Johannesburg,Katlehong,medium_term_goal,Don't know,12,7.14
+neighbourhood,Johannesburg,Katlehong,medium_term_goal,Move within home country,4,2.38
+neighbourhood,Johannesburg,Katlehong,medium_term_goal,Return to origin community,2,1.19
+neighbourhood,Johannesburg,Katlehong,medium_term_goal,Missing,1,0.6
+neighbourhood,Johannesburg,Diepsloot,medium_term_goal,Stay here,128,78.05
+neighbourhood,Johannesburg,Diepsloot,medium_term_goal,Move within city,16,9.76
+neighbourhood,Johannesburg,Diepsloot,medium_term_goal,Don't know,12,7.32
+neighbourhood,Johannesburg,Diepsloot,medium_term_goal,Return to origin community,5,3.05
+neighbourhood,Johannesburg,Diepsloot,medium_term_goal,Other,1,0.61
+neighbourhood,Johannesburg,Diepsloot,medium_term_goal,Move within home country,1,0.61
+neighbourhood,Johannesburg,Diepsloot,medium_term_goal,Move to third country,1,0.61
+neighbourhood,Nairobi,Kawangware,long_term_goal,Stay here,57,27.54
+neighbourhood,Nairobi,Kawangware,long_term_goal,Return to origin community,32,15.46
+neighbourhood,Nairobi,Kawangware,long_term_goal,Don't know,29,14.01
+neighbourhood,Nairobi,Kawangware,long_term_goal,Move within home country,25,12.08
+neighbourhood,Nairobi,Kawangware,long_term_goal,Move within city,23,11.11
+neighbourhood,Nairobi,Kawangware,long_term_goal,Missing,19,9.18
+neighbourhood,Nairobi,Kawangware,long_term_goal,Move to third country,18,8.7
+neighbourhood,Nairobi,Kawangware,long_term_goal,Other,4,1.93
+neighbourhood,Nairobi,Kayole,long_term_goal,Stay here,79,45.93
+neighbourhood,Nairobi,Kayole,long_term_goal,Don't know,25,14.53
+neighbourhood,Nairobi,Kayole,long_term_goal,Return to origin community,21,12.21
+neighbourhood,Nairobi,Kayole,long_term_goal,Move within city,15,8.72
+neighbourhood,Nairobi,Kayole,long_term_goal,Move within home country,15,8.72
+neighbourhood,Nairobi,Kayole,long_term_goal,Move to third country,9,5.23
+neighbourhood,Nairobi,Kayole,long_term_goal,Other,5,2.91
+neighbourhood,Nairobi,Kayole,long_term_goal,Missing,3,1.74
+neighbourhood,Nairobi,Ongata Rongai,long_term_goal,Stay here,69,41.07
+neighbourhood,Nairobi,Ongata Rongai,long_term_goal,Return to origin community,32,19.05
+neighbourhood,Nairobi,Ongata Rongai,long_term_goal,Move to third country,21,12.5
+neighbourhood,Nairobi,Ongata Rongai,long_term_goal,Move within home country,15,8.93
+neighbourhood,Nairobi,Ongata Rongai,long_term_goal,Move within city,14,8.33
+neighbourhood,Nairobi,Ongata Rongai,long_term_goal,Don't know,13,7.74
+neighbourhood,Nairobi,Ongata Rongai,long_term_goal,Other,4,2.38
+neighbourhood,Accra,Madina,long_term_goal,Stay here,80,36.04
+neighbourhood,Accra,Madina,long_term_goal,Move to third country,52,23.42
+neighbourhood,Accra,Madina,long_term_goal,Move within city,35,15.77
+neighbourhood,Accra,Madina,long_term_goal,Don't know,28,12.61
+neighbourhood,Accra,Madina,long_term_goal,Return to origin community,15,6.76
+neighbourhood,Accra,Madina,long_term_goal,Move within home country,9,4.05
+neighbourhood,Accra,Madina,long_term_goal,Missing,3,1.35
+neighbourhood,Accra,Old Fadama,long_term_goal,Stay here,66,35.11
+neighbourhood,Accra,Old Fadama,long_term_goal,Move within city,41,21.81
+neighbourhood,Accra,Old Fadama,long_term_goal,Don't know,39,20.74
+neighbourhood,Accra,Old Fadama,long_term_goal,Move to third country,19,10.11
+neighbourhood,Accra,Old Fadama,long_term_goal,Return to origin community,12,6.38
+neighbourhood,Accra,Old Fadama,long_term_goal,Move within home country,10,5.32
+neighbourhood,Accra,Old Fadama,long_term_goal,Missing,1,0.53
+neighbourhood,Accra,James Town,long_term_goal,Move to third country,71,41.52
+neighbourhood,Accra,James Town,long_term_goal,Stay here,36,21.05
+neighbourhood,Accra,James Town,long_term_goal,Move within city,32,18.71
+neighbourhood,Accra,James Town,long_term_goal,Move within home country,17,9.94
+neighbourhood,Accra,James Town,long_term_goal,Don't know,7,4.09
+neighbourhood,Accra,James Town,long_term_goal,Return to origin community,6,3.51
+neighbourhood,Accra,James Town,long_term_goal,Other,2,1.17
+neighbourhood,Johannesburg,Berea,long_term_goal,Stay here,70,38.25
+neighbourhood,Johannesburg,Berea,long_term_goal,Move within city,46,25.14
+neighbourhood,Johannesburg,Berea,long_term_goal,Return to origin community,28,15.3
+neighbourhood,Johannesburg,Berea,long_term_goal,Move within home country,13,7.1
+neighbourhood,Johannesburg,Berea,long_term_goal,Don't know,11,6.01
+neighbourhood,Johannesburg,Berea,long_term_goal,Move to third country,7,3.83
+neighbourhood,Johannesburg,Berea,long_term_goal,Missing,4,2.19
+neighbourhood,Johannesburg,Berea,long_term_goal,Other,4,2.19
+neighbourhood,Johannesburg,Katlehong,long_term_goal,Stay here,105,62.5
+neighbourhood,Johannesburg,Katlehong,long_term_goal,Move within city,18,10.71
+neighbourhood,Johannesburg,Katlehong,long_term_goal,Don't know,17,10.12
+neighbourhood,Johannesburg,Katlehong,long_term_goal,Return to origin community,13,7.74
+neighbourhood,Johannesburg,Katlehong,long_term_goal,Move to third country,6,3.57
+neighbourhood,Johannesburg,Katlehong,long_term_goal,Move within home country,6,3.57
+neighbourhood,Johannesburg,Katlehong,long_term_goal,Other,2,1.19
+neighbourhood,Johannesburg,Katlehong,long_term_goal,Missing,1,0.6
+neighbourhood,Johannesburg,Diepsloot,long_term_goal,Stay here,75,45.73
+neighbourhood,Johannesburg,Diepsloot,long_term_goal,Return to origin community,28,17.07
+neighbourhood,Johannesburg,Diepsloot,long_term_goal,Move within city,24,14.63
+neighbourhood,Johannesburg,Diepsloot,long_term_goal,Don't know,19,11.59
+neighbourhood,Johannesburg,Diepsloot,long_term_goal,Move within home country,11,6.71
+neighbourhood,Johannesburg,Diepsloot,long_term_goal,Other,4,2.44
+neighbourhood,Johannesburg,Diepsloot,long_term_goal,Move to third country,3,1.83

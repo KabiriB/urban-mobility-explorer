@@ -1,0 +1,317 @@
+1 Consent : To be read to all before beginning interview: Good morning / good afternoon. My name is INSERT NAME. I am working on a project with the University of the Witwatersrand in Johannesburg in collaboration with the University of Johannesburg, University of Ghana and Samuel Hall. What we are trying to understand is experiences of people (like you) living in various parts of Insert City / Insert Neighbourhood.We are social scientists simply interested in understanding life in the city. This is not a test, or an examination and my questions do not have ‘right’ or ‘wrong’ answers. I only want to know about your thoughts, opinion and perspectives. Please tell me what you honestly think and remember. You are free not to answer questions or tostop the interview at any time.  If you agree, I would like to ask you some questions about your experiences about your life here, where you’ve come from, and your expectations for the future.  Your answers will help us to develop a better understanding of the needs and ideas of people living in your area. We are not making money from selling the information. We will communicate our report to government and non-governmental agencies working in the area along with other scholars and researchers like us. However, no one will be identifyingyour answers and we will do everything we can to keep your identity confidential. All together this survey should take just between 45 mins to an hour. Are you ready to go ahead?  
+00 End Survey Respondent Comments : Thank you for your time. Do you want to add any comments?
+00 Comments from Fieldworker : Do you have any comments to add regarding this interview?
+00 Submission : Are you sure that you want to submit the survey?Once submitted, you cannot go back to edit or change anything******* THIS IS YOUR LAST CHANCE TO GO BACK *******
+2 Photo : Can I take a photo of the back of your left hand?Explain that this is to verify that you are interviewing a real person 
+3 Migrant : Were you born in this country?Note to fieldworker: Record to retain a 70:30 quota with 25% domestic migrants
+4 Gender : Respondent’s sex. If unclear, ask the respondent how they identifyNote to fieldworker: Record to retain 50:50 Quota
+4 Other Gender : Please specify other
+5 Quota Check  : Question to the fieldworker: Are you satisfied that this interview would fall within your overall quota?
+6 Interviewers Code : Please enter your interviewer's code to continue.
+7 Date : Please record the date of the interview
+8 Identify City  : Question to the Fieldworker: Which city is the interview conducted in?
+9 Johannesburg Neighbourhoods : Which neighbourhood are you in?
+9 Accra Neighbourhoods  : Which neighbourhood are you in?
+9 Nairobi Neighbourhoods : Which neighbourhood are you in?
+10 Housing Type : Can you identify the type of dwelling?
+10 Other Housing : Please specify other
+100: Village, City or Town : were you born in the village, town, or city?Note to fieldworker: Record Community of Origin 
+100: Village, City or Town Name : I’m interested in the name of the village, town, or cityNote to fieldworker: Record Community of Origin 
+100b: Neighbourhood : what neighbourhood were you raised?
+101 Nearest Town : What is the nearest large town?
+102 Time to City by Bus : And how long would it take to get there by bus? Enter hr:minIf they don’t know, mark 99 
+103 Country of Origin : And what country is it in?
+104 Year of Birth : What year were you born?
+106 Ethnic Group : What tribe, clan or ethnic group do you usually say you belong to when you are speaking with people from Community of Origin stated in Q.100?If they do not understand go to the next question where you will rephrase the question.
+106 Language : What language do you speak with people from Community of origin stated in Q.100
+107 Marital Status : I’m going to read you a list. Please tell me which of the following best describes your current marital status?Read the list and record one answer 
+108 Number of Partners : Do you have more than one person you consider a spouse or committed partner?
+109 Partner Location : Where does your partner/do your partners live? For example, record spouse, boyfriend or girlfriend under the relationship field. Record all locations for all partners
+111 Education  : What is the highest level of formal education you have completed? Do not read the list.
+111 Other : Please specify other
+112 Additional Training : Apart from that which you just described, have you had any sort of additional training or education?
+113 Additional Training : What kind of training?Record up to two
+113 Other Additional Training : Please specify
+115 Mother Tongue : Which language did you grow up speaking at your home?If the respondent is unsure, explain that this is someone’s “mother tongue.”Note to fieldworker: Record Mother tongue language. 
+116 Languages : Which languages can you speak and understand? Start with your mother tongue language. Record all responses. After each response prompt “any others?”
+121 Learnt Languages  : If more than one language was mentioned in 115 and 116 ask: Did you learn any of these languages after leaving your Community of Origin / Country of Origin recorded in Q.100?
+121 Which Languages : If so, which one(s)? Record up to two
+123 Languages in Neighbourhood : Did you learn any of these languages after coming to Insert Neighbourhood/City? 
+123 Which Languages : If so, which one(s)? Record up to two 
+125 Children : Do you have children? These may include your biological children or those you care for.  
+125 Number of Children  : How many children do you have?These may include your biological children or those you care for.
+126 Children by Birth : How many of these are your children by birth?
+127 Born Since Leaving : How many of these have been born since leaving Community of Origin? And where were they born? Please tell me the location and the nearest city
+132 People Living With You : Including yourself, how many people now live in your dwelling type here in Insert Neighbourhood/City?
+133 Household Members : Including yourself, how many of these would you say are part of your household in Insert Neighbourhood/City?When I say household, I mean people with whom you live and regularly share resources.Enter an integer value
+134 Adults in Household : I would like to know a bit more about the adults who are part of your household.To begin with, can you tell me, how are the members of your household related to you and where are they from? I mean the village or city where they’re from and what country it is in.
+141 Households living in another village : Are there members of your current or previous households living in another village, town, or city, or country?
+142 Households Members in Different Place : Where are they and how many in each place?
+151 Household Members Staying Elsewhere : Are there people who you consider members of your household who regularly stay with you in Insert Neighbourhood/City who are not staying with you now?
+151 Number of Household Members Staying Elsewhere : If yes, how many
+152 Frequency of Visits : If so, how frequently are members of your household living in another place? And where are they when they are not in Johannesburg?Also ask for each entry under Village Frequency: Which description best describes the frequency? Once a week, Once a month, Multiple times per year, or Once a year  
+155 How Are You Related to Others Staying With You : SKIP IF ALL PEOPLE LIVING TOGETHER ARE HOUSEHOLD MEMBERS Other than your household members, how are you related to the people you are living/sharing space with now?Do not read list. 
+155 Other How Are You Related to Others Staying With You : Please specify
+156 Change in lifestyle : Have any of the changes in frequencies you’ve described above made your life in CITY more difficult?
+157 How : How have these changes made your life more difficult?
+200 Number : I am now going to ask you about your life outside of INSERT NEIGHBOURHOOD OF INTERVIEW and, where appropriate, about how you came here.Please remember that you do not have to answer any question that makes you feel uncomfortable.Going back as far as you remember, how many cities or communities have you lived for more than 6 months?Enter a numeric value
+201 Place and Duration : Where was the first place you lived and for how long? I'm referring to your place of birth.Duration in years and months.
+201b Did you move anywhere else? : From there, did you move anywhere else?
+202 Departure and Duration : From there, where did you go and how long did you stay there?Duration in yearsIndicate if nowhere else by adding NA under each field 
+203a Reason for Location : Why did you choose that location?
+203b Specify Other : Please specify other
+204 Relations : Did you know people there?
+204  Who : If so, who were they?Indicate which responses you would expect 
+205a Migration  : From there, did you move anywhere else?
+205b Reason for leaving : Why did you leave?
+205c Specify Other : Please specify other reason
+206 Migration  : From there, where did you go and how long did you stay there?
+207a Reason for Choosing Location : Why did you choose that location?
+207b Specify other : Please specify other reason
+208a Relations : Did you know people there?
+208b Who : If so, who were they?
+209 Migration : From there, did you move anywhere else?
+210a Reason for Leaving : Why did you leave?
+210b Specify other : Please specify other
+211 Migrated where : From there, where did you go and how long did you stay there?
+212a Reason for choosing location : Why did you choose that location?
+212b Specify other : Please specify other reason
+212 Relations : Did you know people there?
+212 Who : If so, who were they?
+213 Reason for leaving : Why did you leave? Add list?
+214a Migration : From there, did you move anywhere else?
+214b Migration : From there, where did you go and how long did you stay there? 
+215 Reason for choosing location : Why did you choose that location? 
+215 Specify other : Please specify other reason
+216 Relations : Did you know people there?
+216 Who : If so, who were they? 
+217 Reason for leaving : Why did you leave?  Add list? 
+214 Refugee : Have you ever stayed in a camp or settlement specially designated for refugees or displaced persons?
+215 Refugee Camps : What was the name of the camp? And what was the nearest town or city? And how long did you stay in that camp altogether?Prompt for any others. Less than 1 month can be coded as ‘1’
+219 Aspiration : When you were growing up, did you imagine you would move to go live somewhere else? Where was it?  If there were many places please tell me allType NA in the first line if never imagined or not relevant.If the respondent mentions region, prompt for a country. 
+224 Relations : Are there some members of your family from the community of origin living in a city other than the community of origin or Neighbourhood of interview?
+225 Location of Relations : What city and country are they in? 
+226 COVID Impact on Mobility : COVID-19 Impact on MobilitySince March 2020, have you changed your place of residence?
+227 COVID Impact on Mobility Reason : You changed your place of residence, why?
+228 COVID Social Engagements Outside City : Have your social engagements with other people outside the city increased or decreased since March 2020?
+229 COVID Social Engagements Outside City : Have your social engagements with other people inside the city increased or decreased since March 2020?
+229 Verification  : Were you born in this City? This sub-section will be SKIPPED FOR PEOPLE BORN IN CITY OF INTERVIEW 
+300 Means to Generate Income : I am now going to ask you about how you and your household get what you need to live here in Neighbourhood of interviewI am also interested to know how this has changed since you came to Johannesburg, some of these questions may ask you to remember your life before you got here.What were you doing to earn money before coming to Neighbourhood of interview ? Use ECONOMIC ACTIVITIES codes; 99 for Not Asked. If the activity is not listed, record under “Other” for later coding
+301 Economic Activity  : What did you do to make money in the first three months you were in Neighbourhood of interview?  If the respondent simply says ‘work’, ask: ‘What kind of work?’ Use ECONOMIC ACTIVITIES codes; 99 for Not Asked. If the activity is not listed, record under “Other” for later coding
+302 Original Place of Work : In what part of Neighbourhood of interview did you work/sell when you first arrived?   
+303 Current Employment Status : How would you define your current employment status? Try to code according to list, ask follow up to elicit right answer
+303 Specify Other : Please specify other
+307 Kind of Work : How would you describe the kind of work that you are currently doing here in Neighbourhood of interview? Code using ‘’ECONOMIC ACTIVITIES’. If the activity is not listed, record under “Other” for latercoding
+307 Other Kind of Work  : Please Specify Other
+308 Work Location : Most days what part of the city do you work in?Write neighbourhood name for later coding. Or write, ‘no set location’.
+309 Work Aspirations : What kind of work would you like to be doing? If you are a student, what would you like to do when you are finished studying? Use ECONOMIC ACTIVITIES codes; 99 for Not Asked. If the activity is not listed, record under “Other” for later coding
+310 Send Money : Do you ever send money to your family or friends outside of Neighbourhood of interview?
+311 Support to Family : To whom do you usually send the money?
+311 Specify Other  : Please specify other
+311 Frequency and Amount : How much, and how frequently do you send money? If you send money to any of these people in more than one place, please let us know. 
+319 Economic Support Patterns : Altogether, is this more or less than when you first arrived in Neighbourhood of interview?
+320 Financial Support : Do you ever receive money from your family or friends outside of Neighbourhood of interview?  
+321 Frequency and Amount : If yes, From who, where, how much, and how often?  
+330 Change in Economic Status : NOT APPLICABLE FOR LIFETIME CITY RESIDENTS Do you think coming to Neighbourhood of interview has improved your economic situation?Tell me if it is better, worse, or the same. 
+331 Future Economic Status : NOT APPLICABLE FOR LIFETIME CITY RESIDENTS Do you think coming to Neighbourhood of interview will make you or your family better off in the future? 
+332 Economic Outlook : Are there times when you feel that you are unable to ‘move ahead’ with your life in Neighbourhood of interview?  
+333 Outlook on Life : Do you feel like you are supposed to be further along in your life than you are now?
+333 What Would be Different : If yes, what would be different in your life?1. Something related to studying2. Something related to quality of employment / income3. Something related to marriage or partner4. Something related to children5. Something related to health6. Something related to geographic mobility7. Something related to housing / accommodationRecord what would be different (up to 3 answers) using codes above. If other, record answer for later coding). 
+334 Optimism  : Do you feel that you are able to overcome the obstacles to getting ahead or are these things beyond your control? 
+335 Adapted : Do you feel you have had to change who you are in order to survive in Neighbourhood of interview?  
+336 How Have You Changed : If yes above, In what ways? 
+337 Job Creations : While living in Neighbourhood of interview, have you ever paid someone to do work for you? This could be at home or in your business.
+338 Employment Group : I’m going to read you a list. I would like you to tell me which of these terms best characterizes the type ofperson or people you have typically hired. Read list, record two response (list below slightly confusing)
+338 Specify Other : Please specify other
+340 Investment : If you have extra money in Neighbourhood of interview, do you plan to invest or spend it here?
+340 Investment Elsewhere : If you plan to spend or invest your extra money elsewhere, where would you like to invest or spend that money?   
+341 Obligations Elsewhere : Are there times when you feel life is harder in Neighbourhood of interview because you feel pressure to send money somewhere else?
+341 Obligations Where : Where is that?
+342 Dependants : Are there times when you feel you have let someone else down because you could not support them when they needed it (could be money, presence, work)? 
+342 Disappointed : Who do you felt you have let down? Where were they? 
+343 Properties : Do you own any plots or properties outside of Neighbourhood of interview? If so, where?  
+343 Location of Properties  : If you do own any plots or land outside of Johannesburg, where are they located?
+344 Opportunity to Purchase Property : If you had the opportunity, would you prefer to buy a house or land in the neighbourhood where you live or somewhere else?
+344 Somewhere else : If somewhere else, where?
+345 Food Resilience  : Are there times when you or people depending on you have gone hungry in Neighbourhood of interview so that you could save or send money somewhere else? 
+345 Self Sacrifice : If yes, where were you sending that money? 
+400 First Contacts : I’m now going to ask you a few questions about the kind of people you’ve interacted throughout your life. SKIP TO NEXT QUESTION IF PERSON IS LIFELONG Neighbourhood of interview RESIDENT When you first arrived in Neighbourhood of interview (i.e. here), who did you first try to contact? Do not read list. Select all appropriate answers 
+401 Interactions Outside of City : Please tell me when you last were in contact—by phone, email, or letter—with family living outside of Neighbourhood of interview?
+406 Who Did You Contact : Please tell me who they were, where, and how frequently you were in touch with them in the past 3 months? Prompt with, ‘was there anyone else?' and record all responses. 
+409 Interaction Over Time : If the person has responded positively to question 405-406, ask: Would you say your interactions with people in the place you’re from have increased or decreased in the past six months?
+410 Interaction With People From Previous Destinations : If the person has responded positively to question 409, ask: Would you say your interactions with people in other places you’ve lived have increased or decreased in the past six months?
+412 Interaction Outside Of The Home : Not counting the people you live with, how often do you speak to friends who are not family or neighbours here in Neighbourhood of interview? Would you say it is frequently, infrequently, or hardly ever?  
+413 Religion : If you have one, what is your religion? 
+413 Muslim Sect : If the respondent is Muslim, record sect
+413 Specify Other : Please specify other religion
+414 Church Name : Record the respondent's church/religious place name 
+415 Change in Religion : Did you always belong to this religion?
+416 Previous Religion : What religion did you belong to before?
+416 Muslim Sect : If the respondent is Muslim, record sect
+416 Specify Other : Please specify other religion
+417 Church Name : Record the respondent's previous church/religious place name 
+417 When Did You Join : When did you join your current church/mosque/religious place?
+418 Motivation To Change   : What motivated you to change? Record multiple reasons
+421 Local Police : I’m going to read a list of people and organisations and I’d like you to tell me whether you generally feel you can trust them or not:Do you trust the Local Police?
+422 Local Councillor : Do you trust the local councillor in Neighbourhood of interview?
+423 Mayor : Do you trust the mayor or head of the city?
+424 Chief or Traditional Leaders : Do you trust the Chief or Traditional authority in Neighbourhood of interview?
+425 Local : Do you trust local people from Neighbourhood of interview?
+426 Local Country People : Do you trust people from COUNTRY OF ORIGIN living in Neighbourhood where you are now?
+427 Neighbours : Do you trust people in the neighbourhood where you are now?
+428 Local Service Providers : Do you trust local service providers in your neighbourhood? for example schools, hospitals or clinics?
+429 Religious Leaders : Do you trust your religious leaders?
+430 Other religious leaders : Do you trust other religious leaders?
+431 Business people : Do you trust shop owners and business people in this neighbourhood?
+432 Judges : Do you trust judges and magistrates in this city?
+433 Neighbours : Would you say this neighbourhood is a place where neighbours look out for each other?
+436 Home community : Do you ever try to avoid people you know or people from your home community while in Neighbourhood of interview?
+437 Reasons why : Why do you avoid them?
+438 Opinions : Now I am going to ask you some questions about your opinions. There is no right or wrong answer. I would just like you to tell me yes or no.I feel like I belong here in NEIGHBOURHOOD?
+439 Closeness : I feel close to my neighbours
+440 Care : This is a neighbourhood where people care about each other
+441 Future : I feel I could have a future in this neighbourhood
+442 Support : I feel supported and respected by people in this area
+443 Outsider : I am perceived as an outsider in this neighbourhood
+500 Passport : Now I would like to ask you a few different kinds of questions. Remember that we can skip any question if you do not feel comfortable answering it.I am now going to read you a list. Please tell me if you have any of the following forms of identification.  Read each of the following questions:Do you have a passport?
+501 Driver’s License  : Do you have a driver's license?
+502 Work or Company ID : Do you have a Work or company ID
+503 Current Visa : Do you have a current visa?
+504 Other Forms of Identification : Any other forms of identification?
+505 Right to Work or Trade  : Does one or more of the documents give you the right to work or trade legally in insert City?  
+506 School Registration : Now I would like to talk to you about experiences that some people have in accessing certain services.In the past 12 months, have you registered a child in a school? 
+507 Public Schools : If the answer above was yes, Was it a public school and where was it? Select up to two answers
+507 Registered Elsewhere : If you have a child registered at a public school elsewhere, where is that?
+509 Access to Healthcare : In the past 12 months, have you or someone in your household gone to a clinic or hospital?
+510 Public Healthcare : If the answer above was yes, was it a public facility and where was it? Select up to two answers. 
+510 Healthcare Elsewhere : If healthcare services were recorded outside of Interview City, record location 
+512 Victim of Crime : Have you or someone you live with ever been a victim of crime here in NEIGHBORHOOD either at home or in the street? 
+513 Reporting Crime : In that case, which of the following did you do? Read and select all that apply.
+514 Local Government : Generally speaking, how much do you believe the Inset City local government helps people living in NEIGHBOURHOOD NAME to meet their basic needs? Would you say it helps a great deal or doesn’t help very much?  
+514 Specify Other  : Please specify other
+515 News : How often do you follow the news about what is happening in Insert City? Would you say you follow the news regularly, or never? 
+515 Specify Other  : Please specify other
+516 International News : Other than the general international news, do you regularly follow the news and events happening in other specific places? this could be a region, country or city somewhere else in the world
+516 News From Where : If you do follow news from elsewhere, where from?
+517 News Format : How do you get your news? Do not read list. Record all responses.
+517 Specify Other : 
+520 City Selection : Please select the City of InterviewNote to the enumerator 
+521 You Need to Borrow ZAR 500 : Where would you go for help if you need to borrow ZAR 500?
+522 You need to borrow ZAR 5000 : Where would you go for help if you need to borrow ZAR 5000
+521 You Need to Borrow KES 3 650 : Where would you go for help if you need to borrow KES 3 650?
+522 You need to borrow KES 36 450 : Where would you go for help if you need to borrow KES 36 450
+521 You Need to Borrow GHS 190 : Where would you go for help if you need to borrow GHS 190?
+522 You need to borrow GHS 1 905 : Where would you go for help if you need to borrow GHS 1 905
+523 Legal advice : Where would you go for help if you need legal advice?
+524 Trouble with the police : Where would you go for help if you ware having trouble with the police?
+525 Legal documents : Where would you go for help if you are having trouble getting legal documents? 
+526 Place to live : Where would you go for help if you are having trouble finding a place to live?
+527 Detained by police  : Where would you go for help if you or a family member are detained by the police?
+528 Identity : Now I would like to ask you a bit about your relationship to the people and places around you.  I am going to read you a series of statements. Please tell me if you agree, disagree, or if you don’t have an opinion.  "I am proud to identify with my ethnic group here in INSERT CITY"
+529 Sense of belonging : I feel as though I am part of INSERT CITY society
+530 National Pride : I am proud to identify as a citizen of Community of origin while in INSERT CITY 
+531 Tribal identity  : I feel restricted by my tribal or clan identity here in INSERT CITY 
+532 Religion : I feel restricted by my religion in INSERT CITY 
+533 National Identity : I feel restricted by my national identity in INSERT CITY 
+534 Family presurre : I generally felt my family members put pressure on me about the way I live or organise my personal life when I was in Community of Origin. 
+535 Family pressure  : I generally feel my family members put pressure on me about the way I live or organise my personal life here in INSERT CITY
+536 Family presure : I feel my family and relatives make too many demands on me 
+537 Ethnicity : I want my children to consider themselves members of my ethnic group or tribe 
+538 Citizenship : I want my children to consider themselves citizens of country of origin
+539 Trust Countrymen  : In general, I trust people from my ethnic group in INSERT CITY
+540 Customs and traditions : Do you believe it is generally better for society if newcomers maintain their customs and traditions or if they adopt the customs of the place where they live?
+541 Discrimination by Governments : Do you believe the government has a right to restrict who lives in a country or city depending on where they are from?
+542 Discrimination by residents : Do you believe residents from INSERT CITY have a right to restrict who comes into their communities depending on where they are from?   
+543 Discrimination based on sex : In the past year, how often, if at all, have you personally been discriminated against in INSERT CITY based on your gender or sex?
+544 Discrimination based on religion : In the past year, how often, if at all, have you personally been discriminated against in INSERT CITY based on your religion?
+545 Discrimination based on ethnicity  : In the past year, how often, if at all, have you personally been discriminated against in INSERT CITY based on your ethnicity 
+546 Discrimination based on where you come from : In the past year, how often, if at all, have you personally been discriminated against in INSERT CITY based on the place you came from 
+547 Discrimination based on economic status : In the past year, how often, if at all, have you personally been discriminated against in INSERT CITY based on your economic status?
+548 Political Discrimination : In the past year, how often, if at all, have you personally been discriminated against in INSERT CITY based on your political affiliation?
+548 Political affiliation : If yes to discrimination based on political affiliation, ask:How you would describe your political affiliation?
+549 Marriage Outside of Tribe  : Do you think it is important to marry a person from your own tribe or clan? Please tell me if you think it is important or not important.   
+550 Marriage Outside of Nationality : Do you think it is important to marry a person from Community of origin? Please tell me if you think it is important or not important.
+551 Marriage Outside of Religion : Do you think it is important to marry a person who shares your religious views? Please tell me if you think it is important or not important.  
+552 Local Network : How many friends do you have in INSET CITY who are from INSET CITY? Would you say none, some, or many? 
+600 Politics : Here is a list of things that people sometimes do. For each of these, please tell me whether you, personally, have done any of these things during the past year.  If yes, ask, where these activities in Country of Origin If no, ask: would you do this if you had the chance? Attend a community meeting?
+601 Group : Organise a community group
+602 Participate : Participate in an official participatory planning/budgeting meeting  
+603 Protest : Attend a political protest, rally, or demonstration
+604 Political group : Participate in a political group working elsewhere -- like in area where you’re from
+605 Development : Participate in a development group working elsewhere -- like in area where you’re from
+606 Vote : Vote for a local or national leader in County of Interview
+607 Vote 2 : Vote for a leader outside of County of Interview
+608: Nationality : Is the respondent an international Migrant?Note to the Enumerator
+608 International Migrant Questions : FOR INTERNATIONAL MIGRANTS ONLY Did you do any of the following activities before leaving your country of origin?Attend a community meeting
+609 Group : Organise a community group
+610 Meeting : Participate in an official participatory planning/budgeting meeting
+610 Protest : Attend a political protest, rally, or demonstration
+611 Political group : Participate in a political group working elsewhere -- like in area where you’re from
+612 Development group : Participate in a development group working elsewhere -- like in area where you’re from
+613 Vote : Voted for a local or national leader
+606 Councillor : While living in insert City, have you contacted any of the following persons about some important problem or to give them your views? Read out optionsA local government councillor
+607 Parliament : A member of parliament
+608 Political Party : A political party representative
+609 Traditional Leader : Traditional leader
+610 Religious Leader : Religious leader
+618 Participation : Do you think it is important for people living in Neighbourhood of interview  to participate in planning meetings run by the city or national governments? 
+619 Vote 3 : Do you think it is important for you to be able to vote for leaders here in Neighbourhood of interview?
+620 Vote 4 : Do you think it is important for you to be able to vote for leaders here in country of origin?
+621 Contribution : Do you think it is acceptable for the government to ask you to contribute money to build a school or clinic  in NEIGHBOURHOOD? 
+622 Personal knowledge :  Do you think it is better or worse if people in your neighbourhood know where you are from?
+623 Personal 2 : Do you think it is important to be known and respected in Neighbourhood?
+624 Respect :  Do you think it is important to be known and respected somewhere else? If yes, where? This could be multiple places. If no, skip to 628If so, where?
+628 Giving : I am going to read you a list. I would like you to tell me if you have ever provided money or other material assistance to any of the following here in Neighbourhood of interview?Political parties or organisation outside of Neighbourhood of interview.
+629 Political Parties : Political parties or organisations in Neighbourhood of interview
+630 NGOs : NGOs that work with migrants or Neighbourhood of interview residents
+631 Religious organisations : My church/mosque/religious organization in Neighbourhood of interview
+632 Migrant Org. : Organizations run by migrants or community members
+633 Loans 1 : Loans to people in Neighbourhood of interview
+634 Loans 2 : Loans to people outside of Neighbourhood of interview
+635 Sports Club : Sports club/gym/social club in Neighbourhood of interview
+636 Credit : Rotating credit association/Merry-go-round/Stokvel
+637 Police : Police or security committee
+638 Cultural club :  Cultural club/organisation
+639 Burial : Burial society
+641 Community : In the past year, have you worked together with someone or some group, informally, to solve a  community problem?
+642 Helping hand : In the past year, have you helped people who are not family members for no pay?
+643 Participation : Do you belong to and actively participate in groups or associations that are involved with activities  outside of Neighbourhood of interview? If so, where (list in next field)? 
+643 Locations : List Locations:
+721 Future and covid : We are almost done. Before we finish, I would like to ask you a few questions about what you think your life will be like in the next few years.Since March 2020, are you more or less optimistic about your future?
+722 : If more or less optimistic, can you tell me why your outlook has changed?
+723 : Have any of your long-term plans or expectations for travel changed since March 2020?
+724 : If yes, how?
+700 Stay or go : If you had the opportunity, would you stay here, stay in the country but move to another neighbourhood, leave the country permanently?
+701 Where to : If the respondent would like to move: Where would you like to go? Please tell me the village, town, city, or country.
+702 Move to another country : If you had the opportunity, would you like to move PERMANENTLY to another country, or would you prefer to continue living in this country?
+703 Where to  : Where would you like to go? Please tell me the town, city, or country.
+704 Temporary Work Outside of Country  : Ideally, if you had the opportunity, would you like to go to another country for temporary work, or not?  
+705 Where to : Where would you like to go? Please tell me the town, city, or country. 
+706 Plans to move : Do you have any plans to move somewhere in the next 2-6 months? This could be INSERT CITY, INSERT COUNTRY or somewhere else.
+707 Where to : Where do you think you will go? Record neighbourhood, town, or city and country
+708 Motivation to leave : Why do you want to leave where you are? Do not read. Access to work, Needed more space, Cost of rent (too high, somewhere else much cheaper), Crime or insecurity, Cultural reasons (language, to be close to other countrymen), Discrimination/Xenophobia, Legal/Immigration Difficulties (need to escape officials’ attention), Place no longer available, Evicted, Education (for self or others), Other (specify), DK/RA, Question not asked   
+709 Other reasons for wanting to leave  : Is there any other reason?Do not read. Access to work, Needed more space, Cost of rent (too high, somewhere else much cheaper), Crime or insecurity, Cultural reasons (language, to be close to other countrymen), Discrimination/Xenophobia, Legal/Immigration Difficulties (need to escape officials’ attention), Place no longer available, Evicted, Education (for self or others), Other (specify), DK/RA, Question not asked   
+710 Motivation for choosing destination : Why do you want to go to THIS place?Do not read:Access to work, Needed more space, Cost of rent (too high, somewhere else much cheaper), Crime or insecurity, Cultural reasons (language, to be close to other countrymen), Discrimination/Xenophobia, Legal/Immigration Difficulties (need to escape officials’ attention), Place no longer available, Evicted, Education (for self or others), Other (specify), DK/RA, Question not asked   
+711 Other reasons : Any other reason why you want to go to THIS place?Do not read:Access to work, Needed more space, Cost of rent (too high, somewhere else much cheaper), Crime or insecurity, Cultural reasons (language, to be close to other countrymen), Discrimination/Xenophobia, Legal/Immigration Difficulties (need to escape officials’ attention), Place no longer available, Evicted, Education (for self or others), Other (specify), DK/RA, Question not asked   
+712 Medium-Term Goals : Where do you expect to be living two years from now? Do not read list. Record one answer only.
+712 Specify Where : Please specify where you see yourself living in 2 years
+713 Long-Term Goals : Where do you expect to be living ten years from now? Do not read list. Record one answer only.  
+713 Specify where : Please specify where you see yourself living in 10 years
+714 Getting Ahead by Moving : Do you think that moving is a good way to get ahead in life?   
+715 Retirement : Where would you like to spend your time once you are done working and are retired? Include other.
+715 Specify where : Please specify where you would like to retire
+716 Motivation to choose destination : What about the place where you wish to retire appeals to you? Prompt for Any other reasons?
+717 Aspiration for Children : If you have children, where would you like your children to grow up? If you do not have children now, think ahead to when you do.If your children are already grown, then what about your grandchildren?  
+717 Specify Where : Please specify where you imagine your kids
+718 Language Taught : In what language would you like your children to be taught in school (now or in the future)? Prompt for a second language.Record up to two responses
+720 Are you better off : Generally speaking, do you think that your life will be better or worse than your parents’ lives? 
+228 Identify the City : Question to the Fieldworker: Which city is the interview conducted in?
+229 First Week : In what part of Johannesburg did you stay for your first week after arriving in the city? 
+229 First Week : In what part of Nairobi did you stay for your first week after arriving in the city? 
+229 First Week : In what part of Accra did you stay for your first week after arriving in the city? 
+229 Specify other  : Please specify other location if not listed above
+230 Moved : How many times have you moved since you arrived in City Name area mentioned previously READ: By moving, I mean leaving the building you are in to live in another building or neighbourhood. “Area” means city and immediate suburbs or small towns.Code 98 if the respondent DK/RACode 99 if Question is not asked
+231 Neighbourhoods Lived In : Please tell me which neighbourhoods you lived in from the time you arrived until now, and approximately how long you stayed in each. Let’s start with the one after the first neighbourhood mentioned above in Q.229. 
+236 Current Residence : How long have you been at your current residence? Do not read out. Select one answer only. 
+237 Returned : Have you gone back to any community where you previously lived to visit or stay?   
+238 Places Returned To  : Where did you go and how many times have you returned?  Enter a numeric value  
