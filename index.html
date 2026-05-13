@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Urban Mobility Explorer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1>Urban Mobility Explorer</h1>
+        <p class="subtitle">
+          A public-facing research interface for exploring neighbourhood and
+          city-level patterns in urban mobility, belonging, and trust.
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="intro">
+        <p>
+          This explorer presents selected descriptive findings from the
+          <strong>Mobility, Temporality, and Africa’s Future Politics</strong>
+          research project. The survey was conducted in 2021 across nine
+          neighbourhoods in <strong>Accra, Nairobi, and Johannesburg</strong>,
+          with a total sample of <strong>1,644 respondents</strong>.
+        </p>
+
+        <p>
+          The interface allows users to explore neighbourhood and city-level
+          distributions for key variables related to belonging, perceived
+          outsider status, trust in local institutions, mobility expectations,
+          and demographic structure.
+        </p>
+
+        <p class="how-to">
+          Use the controls below to compare patterns across cities and
+          neighbourhoods.
+        </p>
+      </section>
+      <section class="coverage-strip">
+        <div class="coverage-card">
+          <span class="coverage-number">3</span>
+          <span class="coverage-label">Cities</span>
+        </div>
+
+        <div class="coverage-card">
+          <span class="coverage-number">9</span>
+          <span class="coverage-label">Neighbourhoods</span>
+        </div>
+
+        <div class="coverage-card">
+          <span class="coverage-number">1,644</span>
+          <span class="coverage-label">Respondents</span>
+        </div>
+
+        <div class="coverage-card">
+          <span class="coverage-number">2021</span>
+          <span class="coverage-label">Survey Year</span>
+        </div>
+      </section>
+
+      <section class="controls">
+        <div class="control-group">
+          <label for="geographyLevel">Geography Level</label>
+          <select id="geographyLevel"></select>
+        </div>
+
+        <div class="control-group">
+          <label for="citySelect">City</label>
+          <select id="citySelect"></select>
+        </div>
+
+        <div class="control-group">
+          <label for="neighbourhoodSelect">Neighbourhood</label>
+          <select id="neighbourhoodSelect"></select>
+        </div>
+
+        <div class="control-group">
+          <label for="variableSelect">Variable</label>
+          <select id="variableSelect"></select>
+        </div>
+      </section>
+
+      <section class="chart-section">
+        <h2 id="chartTitle"></h2>
+
+        <div class="chart-wrap">
+          <canvas id="chartCanvas"></canvas>
+        </div>
+
+        <div class="data-info">
+          <p id="metaInfo"></p>
+        </div>
+      </section>
+
+      <section class="context-note">
+        <p>
+          <strong>Why this matters.</strong>
+          Urban mobility is not only about movement between places. It also
+          shapes how people experience belonging, trust institutions, and
+          imagine their future in the city. Making these patterns visible helps
+          researchers, policymakers, and practitioners better understand how
+          urban residents navigate complex social environments.
+        </p>
+      </section>
+
+      <section class="downloads">
+        <h3>Downloads & Documentation</h3>
+
+        <ul>
+          <li>
+            <a href="data/survey_public_microdata_v2.csv" download>
+              Download anonymised microdata (CSV)
+            </a>
+          </li>
+
+          <li>
+            <a href="docs/codebook.md"> Codebook </a>
+          </li>
+
+          <li>
+            <a href="docs/methods.md"> Methods note </a>
+          </li>
+
+          <li>
+            <a href="docs/questionnaire_clean.md"> Cleaned questionnaire </a>
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>© 2026 Mobility, Temporality, and Africa's Future Politics</p>
+      </div>
+    </footer>
+
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>
